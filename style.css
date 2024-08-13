@@ -134,7 +134,7 @@ body {
 	}
 }
 
-@media (min-width: 1200px) and (min-height: 645px) {
+@media (min-width: 1200px) and (max-width: 1350px) and (min-height: 645px) {
 	.card {
 		height: 75%;
 	}
